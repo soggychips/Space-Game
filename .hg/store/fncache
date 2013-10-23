@@ -1,0 +1,12 @@
+data/constants3D.h.i
+data/Camera.cpp.i
+data/PlanetCamera.cpp.i
+data/star_texture.raw.i
+data/MissileSite.cpp.i
+data/Warbird.cpp.i
+data/Torpedo.cpp.i
+data/RuberSystem.cpp.i
+data/triangleLoader.cpp.i
+data/ShipCamera.cpp.i
+data/star_texture.raw.d
+data/Planet.cpp.i
